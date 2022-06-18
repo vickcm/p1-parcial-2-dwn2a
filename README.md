@@ -7,8 +7,7 @@
 
 ## Observaciones
 
-Inserten cualquier comentario u observacion que quieran mencionar.
-
+Nos gustó mucho realizar este ejercicio, con el cual aprendimos un montón y pudimos integrar los conocimientos, de esta materia y de las otras. 
 ## Requisitos obligatorios
 
 ### Productos
